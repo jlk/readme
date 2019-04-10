@@ -41,15 +41,6 @@ I maybe shouldn't write this, but I will: As a seasoned security person, you can
 
 I tend to be a straight shooter. It will benefit our relationship if you take what I say at face value.
 
-## Working Hours
-I tend to be a morning person, but I can switch to being a night person, or just not sleeping much person as things demand.
-
-A few days a week, I'm in the gym or out on a bike between 6-7am. Usually I'm not checking my phone then, unless I'm expecting something.
-
-Generally I'm in "the office" (whether remote, on the road, or in the office) from 8am-6pm. That's when I'm most responsive, but I usually check on things occasionally outside those hours.
-
-I generally will take customer/sales meetings outside of these hours as necessary for the business.
-
 ### Best Way to Contact Me
 I find text-based communication best for most things. Text/IM gets a quicker response and works well for shorter or more interactive conversations, email better for something more crafted.
 
@@ -58,6 +49,15 @@ If a conversation is needed over a topic, I'll usually suggest switching to voic
 Generally I'll try to figure out people's perferred method of communication and use that.
 
 If I need a quick response, I'll go straight to calling you on the phone.
+
+## Working Hours
+I tend to be a morning person, but I can switch to being a night person, or just not sleeping much person as things demand.
+
+A few days a week, I'm in the gym or out on a bike between 6-7am. Usually I'm not checking my phone then, unless I'm expecting something.
+
+Generally I'm in "the office" (whether remote, on the road, or in the office) from 8am-6pm. That's when I'm most responsive, but I usually check on things occasionally outside those hours.
+
+I generally will take customer/sales meetings outside of these hours as necessary for the business.
 
 ### Nights and Weekends
 When things are going Well, I like to use weekends to recharge. That said, I usually still have work on my mind, and it's not uncommon for me to spend a few hours over the weekend on work-related topics. Usually that's experiments, research, or other topics that are not on deadline. Unless I need something for deadline or a customer.
