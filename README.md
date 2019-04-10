@@ -68,11 +68,13 @@ I'll only call outside of business hours if something is really pressing. If you
 I truely hope you intrepert my call the 2nd way.
 
 ## Customers
-A good portion of my working hours are spent customer-facing - either in person or remote. I do that so you don't have to. If you've voiced interest, I may bring you along for a ride. I may also bring you along for a ride if I think I'll need extra firepower on a call. I will never ever ever bring you along to take the fall for something.
+In a modern enterprise, "customers" can be internal groups that we work with, or actual paying(hopefully) customers from the outside world. This section relates to both of those.
+
+A good portion of my working hours are spent customer-facing - either in person or remote. I do that so you don't have to. If you've voiced interest, I may bring you along for a ride. I may also bring you along for a ride if I think I'll need extra firepower on a call. I will **never ever ever** bring you along just to take the blame for something.
 
 If I have a customer meeting coming up, I may ask for your help. If this happens, consider it high priority.
 
-I **really, really don't like looking bad in front of customers**, and I will go to considerable lengths to prevent that from happening, if I sense/know that it's possible/probable. Making sure things are tested and documented helps me considerably here.
+I **really, really don't like looking bad in front of customers**, and I will go to considerable lengths to prevent that from happening, if I sense/know that it's possible/probable. Making sure things are tested and documented helps me considerably here. So does honesty; if something is not working as expected, please let me know so I don't learn about it in front of a customer.
 
 ## Incremental Change
 As a "startup person" and as a recovering consultant, I tend to organize projects into phases - usually 3:
