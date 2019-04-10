@@ -80,7 +80,7 @@ I **really, really don't like looking bad in front of customers**, and I will go
 As a "startup person" and as a recovering consultant, I tend to organize projects into phases - usually 3:
 
 * Phase one "quickly" produces an initial product; I'm usually looking to show quick turnaround and value. The general goal is something that lets us test out a theory, get some hands-on experience, or to communicate a functionality we're thinking about. The goal is something more refined than "beta," but it's not what I'm thinking of for a fully realized idea.
-* Phases two grows the product, continuing our ideas and incorporating feedback
+* Phase two grows the product, continuing our ideas and incorporating feedback
 * Phase three continues refinement and adding polish. The goal being a finalized product that "stands alone" without us having to hand-hold customers or support teams.
 
 Presenting a project to me in this manner isn't necessary, but will show an understanding of how I think about things and will allow us to skip over having to carve the project into multiple phases.
