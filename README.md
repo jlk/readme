@@ -27,6 +27,10 @@ I tend to be a fan of communicating in bullet points.
 I have an operational background; I will frequently care more that something gets **done** than to hear excuses (see: Pet Peeves). That said, if something is more complex than I think it is, do educate me. Yes, there's a lot of grey here, but I understand that not everything's black and white, and will try to keep that in mind when you're politely informing me I'm a moron. :)
 
 ## Communiation
+Good communication is so important, especially with distributed teams, but even if we're packed into the same [clown car](https://www.caranddriver.com/features/a15125743/the-physics-of-clown-cars-feature/). For me to be successful (read: "For me to best help you"), I need to be informed. If you think I need to be aware of something, please don't hesitate to text/email/im/call/whatever. It doesn't have to be formal, and you'll find I tend to not overreact. Frequent updates are preferred over me having to reach out for updates on something all the time, especially if a customer is waiting.
+
+If you're working on something and it will be ready soon or you'll have an update soon, just let me know that. I've found that many engineers tend to do the opposite (radio silence until something is perfect) and this just aggravates people.
+
 I swear. Words are just words to me, and I'll use certain "bad" words to add color sometimes. I can be significantly more offensive without using any "naughty" words.
 
 I read situations and people well, so if I sense it may bother someone or may be inappropriate, I'll tone it down. This is important, because the underlying sentiment is I'm almost never looking to offend or hurt someone. If I say something that offends, I apologize in advance. If you have the courage to tell me (I know this can be hard) I'll go to significant lengths to apologize, try to explain myself, and ensure it doesn't happen again.
