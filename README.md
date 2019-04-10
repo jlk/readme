@@ -80,6 +80,11 @@ If I have a customer meeting coming up, I may ask for your help. If this happens
 
 I **really, really don't like looking bad in front of customers**, and I will go to considerable lengths to prevent that from happening, if I sense/know that it's possible/probable. Making sure things are tested and documented helps me considerably here. So does honesty; if something is not working as expected, please let me know so I don't learn about it in front of a customer.
 
+## My Management Style
+I tend to be pretty laissiez-faire: As long as things are working right, I'll leave them alone. I like to learn about situations or problems before making suggestions, so if you find me questioning things, that's probalby what I'm up to. I enjoy working with smart people whom I can trust. In translation, this means I might hand a seemingly open-ended task to you, leaving the details for you to figure out. If something doesn't make sense or you need more clarity, do feel to ask until you are satisfied.
+
+I tend to strive for a balance between days of back-to-back meetings, and making sure that everybody has enough info to get their stuff done. In some situations 1:1 meetings are useful/valuable/required, though I prefer for these to happen organically and grab me as needed. If I'm having a busy week, blocking out space on my calendar might give you a better shot for my ear.
+
 ## Incremental Change
 As a "startup person" and as a recovering consultant, I tend to organize projects into phases - usually 3:
 
@@ -102,7 +107,7 @@ Too many:
 * Outdoors - skiing, cycling
 * Woodworking
 * Home automation
-* Microcontrollers, robotics
+* Microcontrollers, IoT, robotics
 * Formula 1
 * Food and cooking
 
