@@ -97,19 +97,22 @@ I'm horrible with names. I do work a lot on improving here, but lots of space to
 I try to keep an open mind about the world, but someties I lose that objective. If you think you encounter such a case, again politely suggest I take a step back and re-assess.
 
 ## Non-work Interests
-too many
-outdoors - skiing, cycling
-woodworking
-home automation
-microcontrollers, robotics
-formula 1
-food and cooking
+Too many:
+
+* Outdoors - skiing, cycling
+* Woodworking
+* Home automation
+* Microcontrollers, robotics
+* Formula 1
+* Food and cooking
 
 ## Community
-open source
-meetups - you should go to them too
-industry bodies such as CSA, NIST
-public speaking
+I have a strong belief in being a part of and fostering the open source and information security communities. You'll find me active in:
+
+* Various open source projects
+* Meetups - you should go to them too
+* Industry bodies such as CSA, NIST
+* Public speaking
 
 ## Pet Peeves
 I don't want to finish on a negative note, but I don't want to put this section front-and-center, either. I do want to give some visability to the following points which will not always, but often get under my skin:
