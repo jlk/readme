@@ -1,7 +1,7 @@
 # Hi!
 This doc serves as a guide to working with me, and hopefully a brief introduction (I'm better in person, I swear).
 
-I got the idea for this from this Wired Magazine Article. It will probably grow in length as I think of things. I'll try to keep it brief, and more important things are towards the top.
+I got the idea for this from this [HackerNoon Article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe). It will probably grow in length as I think of things. I'll try to keep it brief, and more important things are towards the top.
 
 I've put a good amount of time into this, so I hope it's helpful to figuring me out. Something wrong or missing? Pull requests accepted. :)
 
