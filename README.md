@@ -68,7 +68,7 @@ I'll only call outside of business hours if something is really pressing. If you
 I truely hope you intrepert my call the 2nd way.
 
 ## Customers
-A good portion of my working hours are spent customer-facing. I do that so you don't have to. If you've voiced interest, I may bring you along for a ride. I may also bring you along for a ride if I think I'll need extra firepower on a call. I will never ever ever bring you along to take the fall for something.
+A good portion of my working hours are spent customer-facing. I do that so you don't have to. If you've voiced interest, I may bring you along for a ride. I may also bring you along for a ride if I think I'll need extra firepower on a call. I will **never ever ever** bring you along to take the fall for something.
 
 If I have a customer meeting coming up, I may ask for your help. If this happens, consider it high priority.
 
