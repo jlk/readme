@@ -31,7 +31,7 @@ I swear. Words are just words to me, and I'll use certain "bad" words to add col
 
 I read situations and people well, so if I sense it may bother someone or may be inappropriate, I'll tone it down. This is important, because the underlying sentiment is I'm almost never looking to offend or hurt someone. If I say something that offends, I apologize in advance. If you have the courage to tell me (I know this can be hard) I'll go to significant lengths to apologize, try to explain myself, and ensure it doesn't happen again.
 
-I'm a security guy at heart. I take concepts of trust, secrecy and privacy very seriously. This means I might always be able to tell the real reason I'm doing something or looking for help. When possible I'll "read you in." Please trust that when this happens I'm actively balancing giving enough information to execute on something, while trying to minimize exposure to something sensitive.
+I'm a security guy at heart. I take concepts of trust, secrecy and privacy very seriously. This means I might not always be able to tell the real reason I'm doing something or looking for help. When possible I'll "read you in." Please trust that when this happens I'm actively balancing giving enough information to execute on something, while trying to minimize exposure to something sensitive.
 
 I maybe shouldn't write this, but I will: As a seasoned security person, you can presume that if you betray my trust, I will learn about it at some point. My reaction will be quiet disappointment. You will probably not learn of my knowledge, but I will remember.
 
@@ -42,7 +42,7 @@ I tend to be a morning person, but I can switch to being a night person, or just
 
 A few days a week, I'm in the gym or out on a bike between 6-7am. Usually I'm not checking my phone then, unless I'm expecting something.
 
-Generally I'm in "the office" (whether remote, on the road, or in the office) from 8am-6pm. That's when I'm most responsive, but I usually check on things occasionally outside those hours.
+Generally I'm in "the office" (whether that's remote, on the road, or in...the office) from 8am-6pm. That's when I'm most responsive, but I usually check on things occasionally outside those hours.
 
 I generally will take customer/sales meetings outside of these hours as necessary for the business.
 
@@ -68,7 +68,7 @@ I'll only call outside of business hours if something is really pressing. If you
 I truely hope you intrepert my call the 2nd way.
 
 ## Customers
-A good portion of my working hours are spent customer-facing - either in person or remote. I do that so you don't have to. If you've voiced interest, I may bring you along for a ride. I may also bring you along for a ride if I think I'll need extra firepower on a call. I will never ever ever bring you along to take the fall for something.
+A good portion of my working hours are spent customer-facing. I do that so you don't have to. If you've voiced interest, I may bring you along for a ride. I may also bring you along for a ride if I think I'll need extra firepower on a call. I will never ever ever bring you along to take the fall for something.
 
 If I have a customer meeting coming up, I may ask for your help. If this happens, consider it high priority.
 
